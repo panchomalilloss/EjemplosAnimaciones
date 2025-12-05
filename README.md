@@ -10,6 +10,12 @@ Ambos proyectos comparten el mismo entorno tecnológico y pueden ejecutarse por 
 
 ---
 
+#PROBLEMA A LA HORA DE CARGAR LA ANIMACIÓN
+
+A la hora de subir el codesandbox a GitHub la simulación se ve completamente en blanco, después de probar varias cosas y que no funcione, la solución que tengo es que en la palabra "repositorio" de arriba te lleve a un codesandbox diferente que no sea el de este repositorio, en dicho proyecto si podrás visualizar tanto los bolos como el jenga.
+
+---
+
 ## 🚀 Tecnologías utilizadas
 
 - **Three.js** — Renderizado 3D en WebGL  
