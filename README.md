@@ -6,7 +6,7 @@ Este repositorio contiene **dos experiencias 3D interactivas** desarrolladas con
 - 🧱 **Jenga Físico**: un juego de jenga totalmente funcional con físicas reales y bloques arrastrables con el ratón.  
 - 🎳 **Bolera 3D**: un minijuego de bolos con una flecha de apuntado futurista, barra de potencia y física de impulso.
 
-Ambos proyectos comparten el mismo entorno tecnológico y pueden ejecutarse por separado dentro del mismo [repositorio](https://codesandbox.io/p/sandbox/ejemplosanimaciones-dkhg5z).
+Ambos proyectos comparten el mismo entorno tecnológico y pueden ejecutarse por separado dentro del mismo [repositorio](https://codesandbox.io/p/sandbox/ejemplosanimaciones-dkhg5z) y [visualizarse](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/francisco_malillos101_alu_ulpgc_es/IQDCIsd4mkVVSIIwW_Oj_DG0AewabZYkFC_3vU0YiIJpKq0?e=NOza2k).
 
 ---
 
